@@ -4,7 +4,7 @@ Jakub Skóra 140178 <br/>
 **Laboratorium Bezpieczeństwa Systemów Teleinformatycznych - True Random Number Generator**  <br/>
 
 Główny skrypt - TRNG.m <br/>
-Zmienne losowe ze źrodła - wejsource.hist.m <br/>
+Zmienne losowe ze źrodła - source_hist.m <br/>
 Reszta - funckje użyte w alogrytmie <br/>
 
 
