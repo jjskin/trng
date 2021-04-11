@@ -1,7 +1,7 @@
-## TRNG
+## TRNG - True Random Number Generator
 Jakub Skóra 140178 <br/>
 <br/>
-**Laboratorium Bezpieczeństwa Systemów Teleinformatycznych - True Random Number Generator**  <br/>
+**Laboratorium Bezpieczeństwa Systemów Teleinformatycznych**  <br/>
 
 Główny skrypt - TRNG.m <br/>
 Zmienne losowe ze źrodła - source_hist.m <br/>
